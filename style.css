@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+   background-image: url(../MHM/background.jpg);
 }
 
 .container{
@@ -23,6 +23,8 @@ header{
 #main{
     display: grid;
     grid-area: main;
+    align-items: center;
+    justify-items: center;
 }
 
 footer{
